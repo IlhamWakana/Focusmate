@@ -17,4 +17,3 @@ Progress bar untuk menunjukkan waktu yang telah berlalu
 
 Menampilkan statistik jumlah sesi yang telah dilakukan dan total waktu fokus yang tercapai
 
-![image](https://github.com/user-attachments/assets/7f069e64-cf24-4811-8505-b113f056d137)
