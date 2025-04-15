@@ -1,4 +1,3 @@
-#Focusmate
 FocusMate adalah aplikasi desktop berbasis Windows Forms yang dirancang untuk membantu meningkatkan produktivitas dengan menggabungkan dua fitur utama: To-Do List dan Pomodoro Timer. Aplikasi ini cocok digunakan oleh individu yang ingin meningkatkan efisiensi kerja atau studi dengan menggunakan metode manajemen waktu yang terbukti efektif.
 
 Fitur Utama
