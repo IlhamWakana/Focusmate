@@ -18,3 +18,4 @@ Progress bar untuk menunjukkan waktu yang telah berlalu
 Menampilkan statistik jumlah sesi yang telah dilakukan dan total waktu fokus yang tercapai
 
 Teknologi
+![ugst](https://github.com/user-attachments/assets/e2923b8c-ff2c-4673-9b58-e52465ce3f45)
