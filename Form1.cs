@@ -1,25 +1,52 @@
 using System;
 using System.Windows.Forms;
 
-namespace Orgaresipis
+namespace Organresipi
 {
-    public partial class Form1 : Form
+    public partial class mainform : Form
     {
-        public Form1()
+        public mainform()
         {
             InitializeComponent();
         }
 
-        private void btnOpenRecipeForm_Click(object sender, EventArgs e)
+        private void mainform_Load(object sender, EventArgs e)
         {
-            RecipeForm recipeForm = new RecipeForm();
-            recipeForm.ShowDialog();
+
         }
 
-        private void btnOpenCategoryForm_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            CategoryForm categoryForm = new CategoryForm();
-            categoryForm.ShowDialog();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            RMasakan rm = new RMasakan();
+            rm.Show();
+        }
+
+        private void rmin_Click(object sender, EventArgs e)
+        {
+            Inventory inv = new Inventory();
+            inv.Show();
+        }
+
+        private void BtnMenuPlan_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Menu Planning diklik");
+        }
+
+        private void BtnShopping_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Shopping List diklik");
+        }
+
+        private void BtnLogout_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
     }
 }
