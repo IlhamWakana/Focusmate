@@ -12,3 +12,5 @@ Navigasi Praktis: Tersedia menu utama yang memberikan akses cepat ke berbagai ba
 Tampilan Sederhana: Fokus pada kemudahan penggunaan agar semua kalangan pengguna dapat mengoperasikannya dengan lancar.
 
 Aplikasi ini cocok digunakan oleh individu, pelaku usaha kuliner, atau siapa pun yang ingin menyimpan koleksi resep secara rapi dan efisien.
+
+Update: Penambahan tombol dan koneksi ke semua database
