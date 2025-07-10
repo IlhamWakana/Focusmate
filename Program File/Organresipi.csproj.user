@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BelanjaHariancs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventaris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kinvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KMasakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVC\Views\BelanjaHariancs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVC\Views\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVC\Views\Inventaris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVC\Views\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MVC\Views\RMasakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RMasakan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
